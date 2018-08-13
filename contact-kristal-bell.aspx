@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Ready to help with all your Handbell needs - Kristal Bell Method" MetaDescription="With 25 years in the Handbell Business we know what you need, and we provide it with pleasure." MetaKeywords="Bells,Music,Songs" MaintainScrollPositionOnPostback="true" Language="C#" MasterPageFile="~/K-Bell.Master" AutoEventWireup="true" CodeBehind="contact-kristal-bell.aspx.cs" Inherits="WebApplication1.contact_kristal_bell" %>
+﻿<%@ Page Title="Ready to help with all your Handbell needs - XXXXXXXX" MetaDescription="With 25 years in the Handbell Business we know what you need, and we provide it with pleasure." MetaKeywords="Bells,Music,Songs" MaintainScrollPositionOnPostback="true" Language="C#" MasterPageFile="~/K-Bell.Master" AutoEventWireup="true" CodeBehind="contact-kristal-bell.aspx.cs" Inherits="WebApplication1.contact_kristal_bell" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -7,7 +7,7 @@
     <header>
         <meta name="description" content="With 25 years in the Handbell Business we know what you need, and we provide it with pleasure." />
         <meta name="keywords" content="Bells,Music,Songs" />
-        <meta name="image" content="style/images/art/Handbell-Music.jpg" title="Hand Bells Kits - Kristal Bell Method"/>
+        <meta name="image" content="style/images/art/Handbell-Music.jpg" title="Hand Bells Kits - XXXXXXXX"/>
     </header>
     <div class="scanlines"></div>
     <div class="wrapper">
@@ -71,9 +71,9 @@
                     <%--font-size: 15.265px;--%>
                     <p style="font-size: 15.265px; font-weight: 500; font-style: oblique; line-height: 125%; padding-bottom: 3.7px; text-shadow: 1.0px 0 #77BFC7;">
                         <a target="_blank" href="http://maps.google.com/maps?q=4608+Jones+Creek+Road+Suite+210+Baton+Rouge,+Louisiana+70817" style="color:lightgray">
-                        Kristal Bell Method<br />
-                        4608 Jones Creek Rd. Suite 210<br />
-                        Baton Rouge, Louisiana 70817</a>
+                        XXXXXXXX<br />
+                        XXXXXX Rd. Suite XXXXX<br />
+                        XXXXXXX, XXXXXX XXXXXX</a>
                     </p>
                     <p style="font-size: 15.265px; font-weight: 500; font-style: oblique; line-height: 131%; padding-bottom: 3.9px; text-shadow: 1.0px 0 #77BFC7;">
                         
@@ -86,12 +86,12 @@
                     </p>
                     <p style="font-size: 15.265px; font-weight: 500; font-style: oblique; line-height: 131%; padding-bottom: 3.9px; text-shadow: 1.0px 0 #77BFC7;">
                         
-                    <a href="mailto:KristalBell93@gmail.com" style="color:#86aca3">
+                    <a href="mailto:XXXXXXXXXX@gmail.com" style="color:#86aca3">
                         E-mail:</a><br />
-                        <a href="mailto:KristalBell93@gmail.com" style="color:lightgray">
-                        KristalBell93@gmail.com</a><br />
-                        <a href="mailto:k5bell@aol.com" style="color:lightgray">
-                        k5bell@aol.com</a>
+                        <a href="mailto:XXXXXXXXX@gmail.com" style="color:lightgray">
+                        XXXXXXXXXX@gmail.com</a><br />
+                        <a href="mailto:XXXXXXXXX@aol.com" style="color:lightgray">
+                        XXXXXXXXX@aol.com</a>
                     </p>
                     <div class="details"><span class="icon-chat"><%--<a href="#">June 13, 2045</a>--%></span> <%--<span class="likes"><a href="#" class="likeThis">5</a></span> <span class="comments"><a href="#">0</a></span>--%> </div>
                 </div>
