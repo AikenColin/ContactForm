@@ -69,20 +69,7 @@ namespace WebApplication1
             Repeat.DataSource = SqlDataSource1;
             Repeat.DataBind();
         }
-        //protected void txtSubject_TextChanged(object sender, EventArgs e)
-        //{
-        //    if (txtName.Text.Trim().Length > 0)
-        //    {
-        //        if (txtEmail.Text.Trim().Length > 0)
-        //        {
-        //            if (txtPhn.Text.Trim().Length > 0)
-        //            { btnSubmit.Visible = true; }
-        //        }
-        //    }
-
-        //    else { btnSubmit.Visible = false; }
-        //}
-
+       
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
             if (txtContact.Text != string.Empty && txtEmail.Text != string.Empty && txtCity.Text != string.Empty && txtState.Text != string.Empty && txtQuestion.Value != string.Empty)
@@ -120,8 +107,8 @@ namespace WebApplication1
                     SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
                     mail2.From = new MailAddress(txtEmail.Text);
                     mail2.To.Add(txtEmail.Text);
-                    mail2.Subject = "Kristal Bell Method";
-                    mail2.Body = "Hello " + txtContact.Text + "," + "\n" + "\n" + "Thank you for contacting us. A representative will be in touch shortly." + "\n" + "\n" + "Thanks," + "\n" + "Kristal Bell Staff" + "\n" + "\n" + "Please Do Not Reply to this Email. For immediate assistance please give us a call at 1-800-574-7825 or 1-225-756-3077";
+                    mail2.Subject = "XXXXXXXX XXXX XXXXX";
+                    mail2.Body = "Hello " + txtContact.Text + "," + "\n" + "\n" + "Thank you for contacting us. A representative will be in touch shortly." + "\n" + "\n" + "Thanks," + "\n" + "XXXXXXX XXXX Staff" + "\n" + "\n" + "Please Do Not Reply to this Email. For immediate assistance please give us a call at 1-800-XXX-XXXX or 1-XXX-XXX-XXXX";
 
                     SmtpServer.Port = 587;
                     SmtpServer.Credentials = new System.Net.NetworkCredential(PrimaryEmail, PassWord);
