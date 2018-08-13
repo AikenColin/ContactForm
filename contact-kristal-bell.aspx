@@ -77,12 +77,12 @@
                     </p>
                     <p style="font-size: 15.265px; font-weight: 500; font-style: oblique; line-height: 131%; padding-bottom: 3.9px; text-shadow: 1.0px 0 #77BFC7;">
                         
-                    <a href="tel:18005747825" style="color:#86aca3">
+                    <a href="tel:1800XXXXXXX" style="color:#86aca3">
                         Phone:</a><br />
-                        <a href="tel:18005747825" style="color:lightgray">
-                    +1 800 574-7825 (KRISTAL)</a><br />
-                        <a href="tel:12257563077" style="color:lightgray">
-                    +1 225 756-3077</a>
+                        <a href="tel:1800XXXXXXX" style="color:lightgray">
+                    +1 800 XXX-XXXX (KRISTAL)</a><br />
+                        <a href="tel:1XXXXXXXXXX" style="color:lightgray">
+                    +1 XXX XXX-XXXX</a>
                     </p>
                     <p style="font-size: 15.265px; font-weight: 500; font-style: oblique; line-height: 131%; padding-bottom: 3.9px; text-shadow: 1.0px 0 #77BFC7;">
                         
